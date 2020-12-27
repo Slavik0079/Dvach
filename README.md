@@ -8,7 +8,7 @@
 
 [Скачай](https://www.python.org/downloads/) установщик с официального сайта и запусти его, также не забудь поставить галочку в "add path":
 
-![](https://github.com/IG-88a-lex/Images/blob/master/Add_Path.png)
+![](https://github.com/Slavik0079/Images/blob/main/Add_Path.png)
 
 ### Запуск/установка скрипта:
 * #### 1. Первый способ (просто запуск).
