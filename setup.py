@@ -12,7 +12,6 @@ setup(
 
     packages=find_packages(),
     include_package_data=True,
-    install_requires = requiered,
     entry_points={ 'console_scripts': ['abu = dvach.__main__:main','bitard = dvach.__main__:main' ] },
 
     license="MIT License",
